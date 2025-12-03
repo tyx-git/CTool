@@ -195,9 +195,3 @@ command-quick-reference/
 ## 📃 许可证
 
 本项目采用MIT许可证，详情请见[LICENSE](LICENSE)文件。
-
-## 🙏 致谢
-
-- 感谢[DeepSeek](https://www.deepseek.com/)提供的AI API支持
-- 感谢[PyQt5](https://pypi.org/project/PyQt5/)提供的强大GUI框架
-- 感谢所有为开源社区做出贡献的开发者们
