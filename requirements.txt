@@ -1,0 +1,5 @@
+openai>=2.5.0
+PyQt5>=5.15.0
+mistune>=3.0.0
+markdown>=3.5.0
+pygments>=2.16.0

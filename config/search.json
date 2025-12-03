@@ -1,0 +1,7 @@
+{
+    "search": {
+      "max_results": 50,
+      "fuzzy_search": true,
+      "search_delay": 300
+    }
+  }

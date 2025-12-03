@@ -1,0 +1,13 @@
+{
+    "renderer": {
+        "line_height": 1.2,
+        "paragraph_spacing": 0.4,
+        "header_line_height": 1.1,
+        "code_block_padding": "8px",
+        "code_block_margin": "0.4em 0",
+        "code_block_max_height": "360px",
+        "code_block_overflow": "auto",
+        "list_item_line_height": 1.2,
+        "list_padding": "0px 15px"
+    }
+}

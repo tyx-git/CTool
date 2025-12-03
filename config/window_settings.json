@@ -1,0 +1,16 @@
+{
+  "geometry": [
+    100,
+    100,
+    1200,
+    800
+  ],
+  "splitter_sizes": [
+    292,
+    875
+  ],
+  "content_splitter_sizes": [
+    574,
+    294
+  ]
+}

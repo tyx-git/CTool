@@ -1,0 +1,19 @@
+{
+  "app": {
+    "name": "命令速查工具",
+    "version": "1.0.0",
+    "database_path": "data/commands.db",
+    "log": {
+      "level": "INFO",
+      "console_output": true,
+      "file_output": true,
+      "max_file_size": 10,
+      "backup_count": 5,
+      "log_format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+      "date_format": "%Y-%m-%d %H:%M:%S",
+      "log_dir": "log",
+      "enable_monitoring": true,
+      "monitor_buffer_size": 1000
+    }
+  }
+}

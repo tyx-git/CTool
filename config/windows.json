@@ -1,0 +1,62 @@
+{
+  "windows": {
+    "main_window": {
+      "geometry": "559,258,1249,891",
+      "window_state": "normal",
+      "maximized": false,
+      "always_on_top": false
+    },
+    "layout": {
+      "left_panel_width": 414,
+      "right_panel_width": 802,
+      "search_panel_height": 231,
+      "terminal_panel_height": 558,
+      "command_management_expanded": false,
+      "command_management_width": 400
+    },
+    "splitter_states": {
+      "main_splitter": "414,802",
+      "right_splitter": "231,558",
+      "left_splitter_sizes": [
+        300,
+        900
+      ],
+      "right_splitter_sizes": [
+        231,
+        558
+      ],
+      "main_splitter_sizes": [
+        414,
+        802
+      ]
+    },
+    "ui_state": {
+      "current_tab_index": 0,
+      "search_filter": "",
+      "command_sort_order": "name_asc",
+      "theme": "default",
+      "font_size": 14
+    },
+    "terminal": {
+      "font_family": "Consolas",
+      "font_size": 14,
+      "background_color": "#1E1E1E",
+      "text_color": "#FFFFFF",
+      "shell_path": "powershell.exe",
+      "startup_directory": "."
+    },
+    "ai_assistant": {
+      "last_conversation": [],
+      "auto_scroll": true,
+      "show_timestamps": true,
+      "max_history_length": 50
+    },
+    "command_panel": {
+      "show_favorites": true,
+      "group_by_category": true,
+      "show_usage_count": true,
+      "recent_commands_limit": 10,
+      "default_category": "general"
+    }
+  }
+}
